@@ -8,7 +8,7 @@
     @vite('resources/js/app.js')
 </head>
 
-<body>
+<body class="bg-dark h-100">
     <!-- Navbar comics -->
     @include( 'partials.navbar' )
 
