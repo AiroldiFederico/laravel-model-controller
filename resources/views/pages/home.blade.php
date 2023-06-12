@@ -9,7 +9,7 @@
 
 
 
-
+<h1 class="text-center text-uppercase fs-1 fw-bolder text-light mt-4">MOVIES</h1>
 
 
 
